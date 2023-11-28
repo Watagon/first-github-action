@@ -1,4 +1,4 @@
-# first-github-action
+# first-github-actions
 
 ## purpose
 
